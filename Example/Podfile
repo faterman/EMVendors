@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EMVendors_Example' do
+  pod 'EMVendors', :path => '../'
+
+  target 'EMVendors_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
