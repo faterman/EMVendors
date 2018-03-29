@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/faterman/EMVendors.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
   s.subspec 'NOSSDK' do |sp|
-    sp.ios.vendored_frameworks = 'EMVendors/NOSSDK/MyFramework.framework'
+    sp.ios.vendored_frameworks = 'EMVendors/NOSSDK/NOSSDK.framework'
   end
 
 end
