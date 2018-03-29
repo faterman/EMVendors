@@ -9,34 +9,14 @@
 Pod::Spec.new do |s|
   s.name             = 'EMVendors'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of EMVendors.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
-
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
-
+  s.summary          = 'EMVendors'
   s.homepage         = 'https://github.com/xxyformobile@163.com/EMVendors'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'xxyformobile@163.com' => 'xuexiaoyu@corp.netease.com' }
-  s.source           = { :git => 'https://github.com/xxyformobile@163.com/EMVendors.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
+  s.author           = { 'faterman' => 'xxyformobile@163.com' }
+  s.source           = { :git => 'https://github.com/faterman/EMVendors.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
+  s.subspec 'NOSSDK' do |sp|
+    sp.ios.vendored_frameworks = 'EMVendors/NOSSDK/MyFramework.framework'
+  end
 
-  s.source_files = 'EMVendors/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'EMVendors' => ['EMVendors/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end

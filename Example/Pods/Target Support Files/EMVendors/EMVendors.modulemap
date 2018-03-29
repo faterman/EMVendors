@@ -1,0 +1,6 @@
+framework module EMVendors {
+  umbrella header "EMVendors-umbrella.h"
+
+  export *
+  module * { export * }
+}

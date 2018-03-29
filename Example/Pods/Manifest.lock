@@ -1,0 +1,18 @@
+PODS:
+  - EMVendors (0.1.0):
+    - EMVendors/NOSSDK (= 0.1.0)
+  - EMVendors/NOSSDK (0.1.0)
+
+DEPENDENCIES:
+  - EMVendors (from `../`)
+
+EXTERNAL SOURCES:
+  EMVendors:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EMVendors: 9fa0d36f41514f0bd5f5aa812412225f81be7233
+
+PODFILE CHECKSUM: 2b8179e7c70f962e2eb83c8a295caea8fac0d414
+
+COCOAPODS: 1.4.0
