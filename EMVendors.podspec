@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EMVendors'
-  s.version          = '0.2.0'
+  s.version          = '0.4.0'
   s.summary          = 'EMVendors'
   s.homepage         = 'https://github.com/xxyformobile@163.com/EMVendors'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }

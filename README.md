@@ -22,7 +22,7 @@ pod 'EMVendors'
 
 ## Author
 
-xxyformobile@163.com, xuexiaoyu@corp.netease.com
+faterman, xxyformobile@163.com
 
 ## License
 
