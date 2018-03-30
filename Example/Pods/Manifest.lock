@@ -1,7 +1,7 @@
 PODS:
-  - EMVendors (0.1.0):
-    - EMVendors/NOSSDK (= 0.1.0)
-  - EMVendors/NOSSDK (0.1.0)
+  - EMVendors (0.2.0):
+    - EMVendors/NOSSDK (= 0.2.0)
+  - EMVendors/NOSSDK (0.2.0)
 
 DEPENDENCIES:
   - EMVendors (from `../`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  EMVendors: 9fa0d36f41514f0bd5f5aa812412225f81be7233
+  EMVendors: 957c4a2dffb5f3909b1064122c505dd8aa3ac999
 
 PODFILE CHECKSUM: 2b8179e7c70f962e2eb83c8a295caea8fac0d414
 

@@ -1,6 +1,6 @@
 {
   "name": "EMVendors",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "EMVendors",
   "homepage": "https://github.com/xxyformobile@163.com/EMVendors",
   "license": {
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/faterman/EMVendors.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "8.0"
@@ -21,7 +21,7 @@
     {
       "name": "NOSSDK",
       "ios": {
-        "vendored_frameworks": "EMVendors/NOSSDK/MyFramework.framework"
+        "vendored_frameworks": "EMVendors/NOSSDK/NOSSDK.framework"
       }
     }
   ]

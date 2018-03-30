@@ -24,19 +24,20 @@
 		21C3C7BEB63E6A5736777060AB931345 /* Pods-EMVendors_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EMVendors_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2A458BC0FBF2A1B07FA7930F76CFC5D7 /* Pods-EMVendors_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EMVendors_Example-resources.sh"; sourceTree = "<group>"; };
 		2C1AA61F790F6721AB99B453DDCADAA1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BF601BAA29F4CBE4ABBEAE22798249F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		4F039335C45115F8F5C8BAD8D51CE6B3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		5701630EEC38EBA446441E882BE3FC1F /* Pods-EMVendors_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EMVendors_Example-umbrella.h"; sourceTree = "<group>"; };
 		65B9AC1ACA03928C7304353495EBA98B /* Pods-EMVendors_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EMVendors_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		6BC9DC62991FF75A48FA2509CD618134 /* EMVendors.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = EMVendors.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6C14AB2700316B9E64526908F70970FD /* Pods-EMVendors_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EMVendors_Example-dummy.m"; sourceTree = "<group>"; };
+		786B3474ACD1561725B12D2CF756A46B /* NOSSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NOSSDK.framework; path = EMVendors/NOSSDK/NOSSDK.framework; sourceTree = "<group>"; };
 		7BCC8ECDBDC8CF36CA7BC09B80B1CF47 /* Pods-EMVendors_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EMVendors_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		878EE733A9B895E2F0393542CC29DBD6 /* Pods-EMVendors_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EMVendors_Tests-umbrella.h"; sourceTree = "<group>"; };
 		9186846CA648216973FECF840947618C /* Pods_EMVendors_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EMVendors_Tests.framework; path = "Pods-EMVendors_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		938425064D07A33213911427E2E102C9 /* Pods-EMVendors_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EMVendors_Example-frameworks.sh"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		979C701A2CCC3F36680CB0257EBC9149 /* EMVendors.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = EMVendors.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A48874B37C197F2C54633BD44E95194B /* Pods_EMVendors_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EMVendors_Example.framework; path = "Pods-EMVendors_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A48CA97C3A667A4E0863B12B62B0C1F4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		AAC03045F38417AEAC8501908B5135C8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		AC354A494E4B0D57CBE03D246CABD710 /* Pods-EMVendors_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EMVendors_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		CB7B05BC4DE5EFDFDBE0A2903A078773 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D2453EEB9338979A0F0228A69D4D028B /* Pods-EMVendors_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-EMVendors_Tests.modulemap"; sourceTree = "<group>"; };
@@ -72,16 +73,6 @@
 				332CFD91582D31ECBC8CC4E80BBBB802 /* Pods-EMVendors_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		17925B50C3EE291F492591A9DA4DA164 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				6BC9DC62991FF75A48FA2509CD618134 /* EMVendors.podspec */,
-				A48CA97C3A667A4E0863B12B62B0C1F4 /* LICENSE */,
-				AAC03045F38417AEAC8501908B5135C8 /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		2B423EF108C66417C57EC60093483DC0 /* Pods-EMVendors_Example */ = {
@@ -129,32 +120,59 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3CF70A6E674C479FBA8C92C9F97580B9 /* EMVendors */ = {
+		5697489C37084273939D0F9B3781554A /* NOSSDK */ = {
 			isa = PBXGroup;
 			children = (
-				17925B50C3EE291F492591A9DA4DA164 /* Pod */,
+				6F4487D81FC867FF8F7518F1BCEC112F /* Frameworks */,
+			);
+			name = NOSSDK;
+			sourceTree = "<group>";
+		};
+		643CA989AFBF13633E863061F575C60D /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				979C701A2CCC3F36680CB0257EBC9149 /* EMVendors.podspec */,
+				3BF601BAA29F4CBE4ABBEAE22798249F /* LICENSE */,
+				4F039335C45115F8F5C8BAD8D51CE6B3 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		6C64FB96A7CA90BF242685E83D8751C6 /* EMVendors */ = {
+			isa = PBXGroup;
+			children = (
+				5697489C37084273939D0F9B3781554A /* NOSSDK */,
+				643CA989AFBF13633E863061F575C60D /* Pod */,
 			);
 			name = EMVendors;
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		44D835944CC4523296F5DF393588BE55 /* Development Pods */ = {
+		6F4487D81FC867FF8F7518F1BCEC112F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3CF70A6E674C479FBA8C92C9F97580B9 /* EMVendors */,
+				786B3474ACD1561725B12D2CF756A46B /* NOSSDK.framework */,
 			);
-			name = "Development Pods";
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				44D835944CC4523296F5DF393588BE55 /* Development Pods */,
+				98BFB5CB31EBFE7AE8F773B45910DD25 /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				3ABEF105FE3633F07C38425B128F98B9 /* Products */,
 				025D0A1C34CC517B9256C3705F19B272 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		98BFB5CB31EBFE7AE8F773B45910DD25 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6C64FB96A7CA90BF242685E83D8751C6 /* EMVendors */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
