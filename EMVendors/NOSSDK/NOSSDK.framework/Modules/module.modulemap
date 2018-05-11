@@ -1,6 +1,0 @@
-framework module NOSSDK {
-  umbrella header "NOSSDK.h"
-
-  export *
-  module * { export * }
-}
